@@ -3,7 +3,7 @@ Data Pirates challenge - task to collect data from a Cooreios website and then w
 
 ------------------------------------------------------------------------------------------------------------
 
-O arquivo está escrito na linguagem Python e deve ser reproduzido via Jupyter Notebook, abaixo uma rápida descrição do conteúdo:
+O arquivo "Web scrapper - Correios Faixa CEP.ipynb" está escrito na linguagem Python e deve ser reproduzido via Jupyter Notebook, abaixo uma rápida descrição do conteúdo:
 
 * As três primeiras células dizem respeito a versão do Python e as bibliotecas utilizadas no projeto.
 
