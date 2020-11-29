@@ -15,9 +15,9 @@ Abaixo uma rápida descrição do arquivo e seu conteúdo:
 
 * As três primeiras células dizem respeito a versão do Python e as bibliotecas utilizadas no projeto.
 
-* A terceira célula realiza a raspagem: ao rodá-la, digite a sigla do estado que pretende obter os resultados e espere aparecer a mensagem "Raspagem das faixas de CEP do estado ESTADO concluída."
+* A terceira célula realiza a raspagem: ao rodá-la, digite a sigla do estado que pretende obter os dados e aperte ENTER (aparecerá uma mensagem informando caso você tenha digitado a sigla errada), quando a obtenção dos dados estiver concluída aparecerá a seguinte mensagem: "Raspagem das faixas de CEP do estado ESTADO concluída."
 
-* A quarta célula mostra o resultado dos dados não duplicados obtidos.
+* A quarta célula mostra o resultado dos dados obtidos (não duplicados).
 
 * A quinta célula mostra os dados no formato JSONL.
 
