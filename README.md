@@ -16,3 +16,8 @@ O arquivo "Web scrapper - Correios Faixa CEP.ipynb" está escrito na linguagem P
 * A sexta célula faz o download dos dados no formato JSONL na pasta Documents do seu computador.
 
 * Caso queira obter os dados de outro estado, basta rodar as células três, quatro, cinco e seis novamente.
+
+------------------------------------------------------------------------------------------------------------
+
+P.S_01: caso não possua o Python instalado, segue o link para download e instalação: https://www.python.org/downloads/
+P.S_02: caso não possua o Jupyter Notebook instalado, segue o link para instalação: https://jupyter.org/install
